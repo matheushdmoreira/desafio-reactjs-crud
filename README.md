@@ -10,7 +10,7 @@
 
 Nesse desafio, foi desenvolvido mais uma aplicação, a GoRestaurant. Pratiquei o que foi aprendido até agora no React.js junto com TypeScript, praticando o conceito de CRUD (Create, Read, Update, Delete).
 
-Essa será uma aplicação que se conecta a uma fake API, e exibe os pratos de comida criados e permite a criação, remoção e atualização desses pratos.
+Essa é uma aplicação que se conecta a uma fake API, e exibe os pratos de comida criados e permite a criação, remoção e atualização desses pratos.
 
 ### Funcionalidades da aplicação
 
